@@ -99,19 +99,16 @@ the rabbit hole may contain worlds of adventure within
 !SLIDE left
 
 - "app store" => "package manager" (been around for decades in linux)
-- internet explorer, safari, opera, web browsers => firefox and google chrome
+- web browser => firefox and google chrome
 - microsoft word, office => libreoffice
-- pictures => 
-- picture editing =>
-- video editing => openshot, 
+- iTunes => clementine, amarok, aqualung, ...
+- media playback => vlc
 - adobe photoshop, image editing => gimp
 - adobe illustrator => inkscape
 - 3d modeling => blender
-- iTunes => clementine
-- media playback => vlc
+- video editing => openshot, kdenlive, LiVES, Avidemux, Cinelerra, ...
 - blogging => wordpress
 - website => drupal
-- sharing music => torrents
 - programming languages => python, clojure, lua, ...
 
 !SLIDE
@@ -126,7 +123,7 @@ the peaceful revolution happening right now is the creation of an open source ec
 
 !SLIDE left
 
-# the solution of absraction
+# basic computer literacy
 
 !SLIDE left
 
@@ -138,7 +135,7 @@ the peaceful revolution happening right now is the creation of an open source ec
 
 !SLIDE left
 
-# layers of abstraction
+# the power of abstraction
 
 1. magnetized atoms on a spinning metallic disk represent 0's and 1's.
 2. 0's and 1's (binary) represent any number (decimal or any base)
