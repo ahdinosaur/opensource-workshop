@@ -38,7 +38,7 @@ a program is "proprietary software" if the software is licensed under exclusive 
 
     "if you share with your neighbor, you are a pirate. if you want any changes, beg us to make them."
 
-xbox are computers, iPhones are computers, but neither allow you to run software that is not approved by Microsoft or Apple. it's like buying a radio and only having 3 channels, even though the radio is capable of thousands of channels, and getting arrested for flipping to a 4th channel.
+Xbox's are computers, iPhone's are computers, but neither allow you to run software that is not approved by Microsoft or Apple. it's like buying a radio and only having 3 channels, even though the radio is capable of thousands of channels, and getting arrested for flipping to a 4th channel.
 
 !SLIDE left
 
@@ -46,10 +46,10 @@ xbox are computers, iPhones are computers, but neither allow you to run software
 
 a program is "free software" if the program's users have the four essential freedoms: 
 
-1. the freedom to run the program, for any purpose.
-2. the freedom to study how the program works, and change it so it does your computing as you wish.
-3. the freedom to redistribute copies so you can help your neighbor.
-4. the freedom to distribute copies of your modified versions to others. by doing this you can give the whole community a chance to benefit from your changes.
+1. freedom to run the program, for any purpose.
+2. freedom to study how the program works, and change it so it does your computing as you wish.
+3. freedom to redistribute copies so you can help your neighbor.
+4. freedom to distribute copies of your modified versions to others. by doing this you can give the whole community a chance to benefit from your changes.
 
 !SLIDE
 
@@ -99,15 +99,20 @@ the rabbit hole may contain worlds of adventure within
 !SLIDE left
 
 - "app store" => "package manager" (been around for decades in linux)
-- internet explorer, safari, opera => firefox and google chrome
-- microsoft word => libreoffice
-- adobe photoshop => gimp
+- internet explorer, safari, opera, web browsers => firefox and google chrome
+- microsoft word, office => libreoffice
+- pictures => 
+- picture editing =>
+- video editing => openshot, 
+- adobe photoshop, image editing => gimp
 - adobe illustrator => inkscape
 - 3d modeling => blender
 - iTunes => clementine
 - media playback => vlc
 - blogging => wordpress
 - website => drupal
+- sharing music => torrents
+- programming languages => python, clojure, lua, ...
 
 !SLIDE
 
@@ -117,7 +122,7 @@ the peaceful revolution happening right now is the creation of an open source ec
 
 - everyone scatches their own itch, incentives change from profit to people
 - development in collaboration with the community is cheaper
-- all designs, blueprints, codes are freely available, so producing goods is free (if digital) or at fair labor price
+- all designs, blueprints, codes are freely available, so producing goods is free (if digital) or at fair labor price (if through a producer)
 
 !SLIDE left
 
